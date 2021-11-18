@@ -1,2 +1,2 @@
 # theunionvillehowl
-Readme Repository
+This organization contains private repositories for The Unionville Howl website, in development currently.
